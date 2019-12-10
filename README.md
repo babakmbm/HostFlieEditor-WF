@@ -1,5 +1,6 @@
-# HostFlieEditor-WF
-For Teaching
+Host File Editor 
+Student Version
+# Babak Rahi
 
 This windows forms aplication will help you to block server access to your pc by using the host file in windows.
 The program throws an exception when trying to modify the file.
